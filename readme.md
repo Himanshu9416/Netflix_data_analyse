@@ -10,8 +10,7 @@ An interactive Tableau dashboard that analyzes Netflix content by year, genre, c
 | `netflix_titles.xlsx`            | Cleaned Dataset                                  |
 | `Netflix Project Proposal.pdf`   | Project Proposal Document                        |
 | `README.md`                      | Project Overview and Guide                       |
-| `netflix_data_cleaning.ipynb`     | Project
-Python code 
+| `netflix_data_cleaning.ipynb`     | Project                                         |
 
 ## 🚀 Dashboard Features
 - Year-wise content trends
@@ -21,7 +20,6 @@ Python code
 
 ## 🛠 Tools Used
 - Tableau
-- Excel
 - GitHub
 
 ## 🎯 Outcome
